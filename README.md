@@ -1,1 +1,10 @@
 # BIT-CSE11001-BRUTATOS
+Team Name: **BRUTATOS**
+Selected Module: **Hardware, Networks and Behaviourist AI**
+
+## Members
+1. 1820262137	KARBUZOV SANZHAR -- Repo and Version Control manager
+2. 1820262146	MUSSALDINOV RASSUL -- S
+3. 1820262363	MATASHEV ARIET
+4. 1820262072	柳青 AHMED NASIR
+5. 1820262361 KALBAEV BEKNAZAR 
