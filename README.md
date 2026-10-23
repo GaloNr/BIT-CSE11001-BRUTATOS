@@ -47,12 +47,12 @@ First-year university students from any major who use computers and phones every
 
 
 ## Where To Find
-```BIT-CSE11001-BRUTATOS/media/ppt``` -- [PPT Presentations](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/media/ppt)
-```BIT-CSE11001-BRUTATOS/media/video``` -- [Video Tutorials and plans for Live Mini Lectures](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/media/video)
-```BIT-CSE11001-BRUTATOSsrc/1-HARDWARE``` -- [Sub-module 1 - "Hardware"](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/src/1-HARDWARE)
-```BIT-CSE11001-BRUTATOS/src/2-NETWORKS``` -- [Sub-module 2 - "Networks"](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/src/2-NETWORKS)
-```BIT-CSE11001-BRUTATOS/src/3-BEHAVIOURIST_AI``` -- [Sub-module 3 - "Behaviourist AI"](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/src/3-BEHAVIOURIST_AI)
-```BIT-CSE11001-BRUTATOS/PROJECTPLAN.md``` -- [Project Plan](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/blob/main/PROJECTPLAN.md)
+```BIT-CSE11001-BRUTATOS/media/ppt``` -- [PPT Presentations](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/media/ppt)\
+```BIT-CSE11001-BRUTATOS/media/video``` -- [Video Tutorials and plans for Live Mini Lectures](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/media/video)\
+```BIT-CSE11001-BRUTATOSsrc/1-HARDWARE``` -- [Sub-module 1 - "Hardware"](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/src/1-HARDWARE)\
+```BIT-CSE11001-BRUTATOS/src/2-NETWORKS``` -- [Sub-module 2 - "Networks"](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/src/2-NETWORKS)\
+```BIT-CSE11001-BRUTATOS/src/3-BEHAVIOURIST_AI``` -- [Sub-module 3 - "Behaviourist AI"](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/tree/main/src/3-BEHAVIOURIST_AI)\
+```BIT-CSE11001-BRUTATOS/PROJECTPLAN.md``` -- [Project Plan](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/blob/main/PROJECTPLAN.md)\
 ```BIT-CSE11001-BRUTATOS/TASKLIST.md``` -- [Task List](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/blob/main/TASKLIST.md)
 
 ## Folder Structure
