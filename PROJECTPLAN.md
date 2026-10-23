@@ -21,6 +21,7 @@ We are six people, and each of us has three jobs: one coordination role, one pro
 |Benslima Khalid 韩力|1820262152|Project Manager (tasks, quality and submission)|
 |Kalbaev Beknazar 柏克|1820262361|Data Engineer|
 |Karbuzov Sanzhar 宋哲|1820262137|GitHub & Markdown Editor|
+
 <br>
 
 | Name | Strengths and experience | Skills to develop |
@@ -31,6 +32,7 @@ We are six people, and each of us has three jobs: one coordination role, one pro
 |Benslima Khalid 韩力|TBD|TBD|
 |Kalbaev Beknazar 柏克|TBD|TBD|
 |Karbuzov Sanzhar 宋哲|Python programming language (data and signal processing); moderate experience with Git version control and Markdown language; Mechanical Engineering student|Coordinate team submissions to git repo; review material and pull requests|
+
 <br>
 
 **What each role means in practice**
@@ -59,6 +61,7 @@ We are six people, and each of us has three jobs: one coordination role, one pro
 | Sanzhar | GitHub and Markdown | Repository, README and TASKLIST |Networks, sections 2.1 to 2.4 |
 
 We split it this way so that every person writes real content, and every deliverable has one clear owner. Roles show who is responsible, not who is allowed to work on something: everyone studies all three parts, reviews other people's sections and can explain the whole project. If the load becomes uneven, we raise it at the weekly meeting and move tasks, and the change is recorded in the task list.
+
 <br>
 
 ## **B. Project scope and learning goals**
@@ -111,6 +114,7 @@ First-year university students from any major who use computers and phones every
 
 1.7 Hardware for AI and robots: GPUs, sensors and actuators
 ```
+
 <br>
 
 **Part 2. Networks**
@@ -129,7 +133,8 @@ First-year university students from any major who use computers and phones every
 
 2.7 The internet and the web, HTTP and HTTPS, basic network security
 ```
-<Br>
+
+<br>
 
 **Part 3. Behaviorist AI**
 ```
@@ -151,6 +156,7 @@ First-year university students from any major who use computers and phones every
 ```
 4.1 One system, three layers: the robot vacuum from sensor to network to decision
 ```
+
 <br>
 
 ### **Scope boundaries**
@@ -165,6 +171,7 @@ First-year university students from any major who use computers and phones every
 |Subsumption architecture (3.4)|Reinforcement learning (3.5): the idea only, no formulas	|
 
 One thing we will confirm with the teacher early is how deep reinforcement learning (3.5) and the OSI model (2.4) should go. Until then, both stay at an introductory level.
+
 <br>
 
 ## **C. Planned learning resources and mini lecture**
@@ -177,6 +184,7 @@ All three resources are built from the same Markdown files, so a fact is written
 | PPT Slides | One short slide group per section, built around diagrams instead of text: a von Neumann block diagram, the fetch, decode, execute cycle shown step by step on a three-instruction program (LOAD, ADD, STORE), a memory hierarchy pyramid, a map of one packet's journey, a DNS lookup sequence, and the layers of a subsumption robot. Each part ends with two or three check questions taken from the test bank. |
 | Video Tutorials | Three tutorials of 5 to 8 minutes each. (1) "Inside the CPU": the fetch, decode, execute cycle animated on a tiny program. (2) "What happens when you open a website": a screen-recorded demo using ping, nslookup and traceroute, with narration. (3) "A robot without a brain": a simple reactive robot built in Scratch, adding one behavior layer at a time to show subsumption. Each video ends with two quiz questions. |
 | Live Mini Lecture | Proposed question: "Can a robot act smart without thinking?" It matters because it shows a completely different idea of intelligence from chatbots and neural networks, and it is the base of real products like robot vacuums. Activity: one volunteer becomes the "robot" and follows three rule cards (Layer 1: walk forward. Layer 2: if you touch an obstacle, turn right. Layer 3: if the "battery" card is shown, go to the charger). The audience places bags as obstacles and predicts what the robot will do. Simple rules produce behavior that looks planned. Backup topic: "How does a CPU run one instruction?", with students acting as the control unit, ALU and memory. We will confirm that our topic is on the topic menu before preparing it. |
+
 <br>
 
 **How the pieces support each other.** The Markdown is the single source, so the study guide, slides and videos always say the same thing in the same words. The test bank questions are reused at the end of slide groups and videos, so learners practise the same ideas in every format. The mini lecture tests our Part 3 material on a real audience early, and what confuses them goes back into the Markdown before the final versions.
