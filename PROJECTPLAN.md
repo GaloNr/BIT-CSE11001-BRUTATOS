@@ -9,6 +9,7 @@
 |Document Version|v1.0, Stage 1 submission (deadline October 24, 2026, 23:59 Beijing time)|
 |Submission Lead | Benslima Khalid 韩力 |
 
+<br>
 
 ## **A. Team information and responsibilities**
 
