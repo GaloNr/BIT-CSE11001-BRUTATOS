@@ -39,7 +39,7 @@
 | Ariet | Systems & Workflow Architect (workflow, task coordination) |
 | Ahmed | Project Manager (schedule and meetings) |
 | Khalid | Content Reviewer & Quality Assurance (QA) |
-| Beknazar | Data Engineer (sources, diagrams, video) |
+| Beknazar | Visual Design Lead (sources, diagrams, video) |
 | Sanzhar | GitHub & Markdown Manager (repository, slides) |
 
 *The roles were updated on October 24 in the group chat.*
