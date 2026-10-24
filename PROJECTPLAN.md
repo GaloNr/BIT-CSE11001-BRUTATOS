@@ -24,10 +24,10 @@ We are six people, and each of us has three jobs: one coordination role, one pro
 | --- | --- | --- | --- | --- | --- |
 | Mussaldinov Rassul | 苏岚 | 1820262146 | Research & Learning Lead | Has built websites with Next.js and Supabase, a Telegram bot and an iOS widget app, so Git and Markdown aren't new to him. Made Canva presentations for a workwear factory. Studies Mechanical Engineering, which helps with the robot side of Behaviorist AI | Explaining theory simply in English; talking on camera |
 | Matashev Ariet | 舒尔恪 | 1820262363 | Systems & Workflow Architect | Good at organizing people and tasks; set up our Trello board for the team | Using GitHub; making slides that explain with pictures instead of walls of text |
-| Ali Ahmed | 柳青 | 1820262072 | Project Manager | Likes planning and keeping things on schedule | Video editing and recording narration; writing short, clear meeting notes |
+| Ali Ahmed | 柳青 | 1820262072 | Project Manager | Has built an RC plane as a personal project. Has experience working on aircraft-related projects. Has set up a hospital management system using Bahmni and Docker | Improve project management, programming skills, robotics and AI knowledge, and content creation |
 | Benslima Khalid | 韩力 | 1820262152 | Content Reviewer & Quality Assurance (QA) | Pays attention to details and notices when an explanation doesn't make sense | Checking facts against sources; giving feedback that is clear but not harsh |
 | Kalbaev Beknazar | 柏克 | 1820262361 | Data Engineer | Keeps files organized and is good at finding information online | Drawing diagrams; writing good test questions with explanations |
-| Karbuzov Sanzhar | 宋哲 | 1820262137 | GitHub & Markdown Manager | Picks up new tools quickly; started our GitHub setup | Reviewing other people's changes on GitHub; Markdown formatting |
+| Karbuzov Sanzhar | 宋哲 | 1820262137 | GitHub & Markdown Manager | Python Data and Signal processing (pandas, scipy), moderate experience with git version control system and in-school database management education | Reviewing other people's changes on GitHub; Markdown formatting |
 
 ### What each role means in practice
 
