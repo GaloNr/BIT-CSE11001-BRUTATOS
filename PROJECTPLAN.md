@@ -356,6 +356,7 @@ BIT-CSE11001-BRUTATOS/
 ```
 
 Personal logs are never stored in the repository.
+Live folder structure to be viewed in [README.md](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/blob/main/README.md).
 
 ### Lesson template
 
