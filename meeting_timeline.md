@@ -37,7 +37,7 @@
 |---|---|
 | Rassul | Research and content checking |
 | Ariet | Workflow design and slides |
-| Ahmed | meeting coordination and documentation |
+| Ahmed | Meeting coordination and documentation |
 | Khalid | Task management and submissions |
 | Beknazar | Sources and diagrams |
 | Sanzhar | GitHub and Markdown |
