@@ -26,7 +26,7 @@ Our materials will teach a complete beginner how a computer works inside, how co
 
 First-year university students from any major who use computers and phones every day but have never studied computer science. We assume they can read basic English, do school-level arithmetic, and know what a file, an app and a website are. We do not assume any programming, electronics or networking knowledge.
 
-The full list of learning goals, the order of topics and the status of every section are in [module-outline.md](module-outline.md).
+The full list of learning goals, the order of topics and the status of every section are in [MODULEOUTLINE.md](https://github.com/GaloNr/BIT-CSE11001-BRUTATOS/blob/main/MODULEOUTLINE.md).
 
 ## Where To Find
 
@@ -52,9 +52,10 @@ BIT-CSE11001-BRUTATOS/
 │   ├── 1-HARDWARE/
 │   ├── 2-NETWORKS/
 │   └── 3-BEHAVIOURIST_AI/
+├── MEETING_TIMELINE.md
+├── MODULEOUTLINE.md
 ├── PROJECTPLAN.md
 ├── README.md
-├── MEETING_TIMELINE.md
 └── TASKLIST.md
 ```
 
