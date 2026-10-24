@@ -52,13 +52,9 @@ BIT-CSE11001-BRUTATOS/
 │   ├── 1-HARDWARE/
 │   ├── 2-NETWORKS/
 │   └── 3-BEHAVIOURIST_AI/
-├── module-outline.md
-├── meeting_evidence.md
-├── meeting_minutes.md
-├── meeting_timeline.md
-├── project_schedule.md
 ├── PROJECTPLAN.md
 ├── README.md
+├── MEETING_TIMELINE.md
 └── TASKLIST.md
 ```
 
