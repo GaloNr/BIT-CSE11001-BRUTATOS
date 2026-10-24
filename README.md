@@ -8,8 +8,8 @@ Selected Module: **Hardware, Networks and Behaviourist AI**
 ## Team Members
 | Name | ID | Role |
 | -- | -- | -- |
-| Ahmed Ali 柳青 | **1820262072** | Project Manager (schedule and meetings)|
-| Benslima Khalid 韩力| **1820262152** | Project&nbsp;Manager&nbsp;(tasks,&nbsp;quality&nbsp;and&nbsp;submission) |
+| Ahmed Ali 柳青 | **1820262072** | Project Manager (Meeting coordination and documentation)|
+| Benslima Khalid 韩力| **1820262152** | (tasks,&nbsp;quality&nbsp;and&nbsp;submission) |
 | Matashev Ariet 舒尔恪| **1820262363** |Systems & Workflow Architect|
 | Mussaldinov Rassul 苏岚| **1820262146** | Research & Learning Lead|
 | Kalbaev Beknazar 柏克| **1820262361** | Data Engineer |
