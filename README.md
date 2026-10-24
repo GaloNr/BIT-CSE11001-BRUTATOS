@@ -15,7 +15,7 @@ Selected Module: **Hardware, Networks and Behaviourist AI**
 | Matashev Ariet 舒尔恪 | **1820262363** | [gau](https://github.com/Arito-star) | Systems & Workflow Architect (workflow, task coordination) |
 | Ali Ahmed 柳青 | **1820262072** | [rollazoal](https://github.com/rollazoal) | Project Manager (timeline, meetings, deadlines, progress) |
 | Benslima Khalid 韩力 | **1820262152** | [hassanbennani56-gif](https://github.com/hassanbennani56-gif) | Content Reviewer & Quality Assurance (QA) |
-| Kalbaev Beknazar 柏克 | **1820262361** | [BaiKe77](https://github.com/BaiKe77) | Data Engineer (sources, diagrams, video) |
+| Kalbaev Beknazar 柏克 | **1820262361** | [BaiKe77](https://github.com/BaiKe77) | Visual Design Lead (sources, diagrams, video) |
 | Karbuzov Sanzhar 宋哲 | **1820262137** | [GaloNr](https://github.com/GaloNr) | GitHub & Markdown Manager (repository, slides) |
 
 ## Project's Purpose
