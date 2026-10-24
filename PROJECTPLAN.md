@@ -344,6 +344,7 @@ BIT-CSE11001-BRUTATOS/
 ├── README.md              # Team, module, members, purpose, learners, file locations, progress
 ├── PROJECTPLAN.md         # Project plan
 ├── TASKLIST.md            # Current task list
+├── MEETING_TIMELINE.md    # Meeting timeline merge
 ├── src/
 │   ├── 1-HARDWARE/        # Lessons 1.1–1.7
 │   ├── 2-NETWORKS/         # Lessons 2.1–2.7
